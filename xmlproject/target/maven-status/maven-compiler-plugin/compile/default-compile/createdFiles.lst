@@ -1,0 +1,4 @@
+com\mycompany\xmlproject\controller\FilmController.class
+com\mycompany\xmlproject\model\FilmDetail.class
+mycompany\xmlproject\connection\ConnectXML.class
+com\mycompany\xmlproject\model\Film.class
